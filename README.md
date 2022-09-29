@@ -12,11 +12,15 @@ instalar essa biblioteca que  programa executará.
 
 ### Instalação
 
-Instalando pelo pip:
+Instalando requirements.txt:
+
+`pip install -r /path/to/requirements.txt`
+
+Instalando apenas o pandas pelo pip:
 
 `pip install pandas`
 
-Instalando pelo conda:
+Instalando apenas o pandas pelo conda:
 
 `conda install -c anaconda pandas`
 
